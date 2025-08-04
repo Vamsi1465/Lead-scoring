@@ -7,6 +7,7 @@ Run the Lead Scoring Script:
       python lead_scoring.py
           
 This will read data from sample_leads.csv, apply scoring logic from config.json, and generate an output file:    
+
       scored_leads.csv
 
 Open Power BI and Select extract data from CSV or use python script
