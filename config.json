@@ -1,0 +1,25 @@
+{
+  "thresholds": {
+    "interactions": {
+      "high": 8,
+      "medium": 5
+    },
+    "page_views": {
+      "high": 20,
+      "medium": 10
+    }
+  },
+  "job_title_scores": {
+    "CEO": 3,
+    "Founder": 3,
+    "Manager": 2,
+    "Freelancer": 1,
+    "Student": 0
+  },
+  "location_scores": {
+    "New York": 2,
+    "California": 1,
+    "Texas": 1,
+    "Florida": 1
+  }
+}

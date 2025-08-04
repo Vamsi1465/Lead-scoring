@@ -1,0 +1,6 @@
+name,email,location,job_title,interactions,page_views
+Alice,alice@example.com,New York,CEO,10,25
+Bob,bob@example.com,California,Manager,4,15
+Carol,carol@example.com,Texas,Freelancer,7,12
+David,david@example.com,Florida,Founder,9,22
+Eve,eve@example.com,New York,Student,2,5
