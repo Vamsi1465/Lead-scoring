@@ -1,17 +1,13 @@
 Run the requirements.txt file:
 
-nginx
-Copy
-Edit
-
       pip install -r requirements.txt
       
 Run the Lead Scoring Script:
 
-          python lead_scoring.py
+      python lead_scoring.py
           
 This will read data from sample_leads.csv, apply scoring logic from config.json, and generate an output file:    
-          scored_leads.csv
+      scored_leads.csv
 
 Open Power BI and Select extract data from CSV or use python script
  
